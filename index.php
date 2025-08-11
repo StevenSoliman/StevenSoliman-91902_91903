@@ -73,7 +73,6 @@
                         </ul>
                 
                     </li> <!--/gallery dropdown -->
-                    <li><a class nav="nav" href="#">About</a></li>
                     <li><a class nav="nav" href="index.php?page=links">links</a></li>
                     <li><a class nav="nav" href="index.php?page=contact">Contact</a></li>
                 </ul>

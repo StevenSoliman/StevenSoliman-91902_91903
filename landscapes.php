@@ -2,13 +2,13 @@
         <h2>Landscapes Gallery</h2>
 
     <p>
-        These insects images are a selection from wikimedia commons Featured pages
-        on <a href="https://commons.wikimedia.org/wiki/Commons:Featured_pictures/
-        Animals/Arthropods" target="_blank">Arthopods</a>
+        Capturing the natural beauty of New Zealand's diverse landscapes. 
+        From the rugged coastline of the Bay of Plenty to majestic mountain vistas,
+         these images celebrate our stunning environment.
     </p>
 
     <?php
-        make_gallery("space");
+        make_gallery("landscapes");
     ?>
 
 

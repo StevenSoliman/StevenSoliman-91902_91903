@@ -2,13 +2,13 @@
         <h2>Events Gallery</h2>
 
     <p>
-        These insects images are a selection from wikimedia commons Featured pages
-        on <a href="https://commons.wikimedia.org/wiki/Commons:Featured_pictures/
-        Animals/Arthropods" target="_blank">Arthopods</a>
+        Documenting life's special celebrations and milestones.
+        From intimate gatherings to large-scale events, I capture the authentic 
+        moments and emotions that make each occasion memorable.
     </p>
 
     <?php
-        make_gallery("people");
+        make_gallery("events");
     ?>
 
 

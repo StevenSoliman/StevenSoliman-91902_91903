@@ -63,8 +63,6 @@
                             </ul>
                     
                         </li>   <!-- / gallery dropdown -->
-                        
-                        <li><a href="#">About</a></li>
                         <li><a href="index.php?page=links">Links</a></li>
                         <li><a href="#">Contact</a></li>
                     </ul>   
